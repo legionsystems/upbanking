@@ -1,7 +1,10 @@
 # upbanking
 Some different methods to get Details from your UP Bank via their API through Different Windows Applications.
 
-#upbanking-powershell
+# UpBanking_API WSheet.xls
+After updating the UpBankingAPIKey on Settings Worksheet - you can then use this XLS file to view your transactions, tags, Bank Accounts, and Categories using Power Query.
+
+# Upbanking-powershell
 This is a powershell script used to pull information about your bank details.
 Modify the first line that holds the API Authorisation Key to be the one you get from your account.
 
